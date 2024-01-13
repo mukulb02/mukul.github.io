@@ -1,4 +1,3 @@
-# mukul.github.io
-
+# Assitant Professor
 #Education
 computer science Mtech.
